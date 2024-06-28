@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "bob",
+      "id": 1,
+      "email": "bob@gmail.com",
+      "passowrd": "test123"
+    },
+    {
+      "name": "yasine",
+      "id": 2,
+      "email": "yasine@gmail.com",
+      "passowrd": "test123"
+    },
+    {
+      "name": "ahmed",
+      "id": 3,
+      "email": "ahmed@gmail.com",
+      "passowrd": "test123"
+    },
+    {
+      "name": "sami",
+      "email": "sami@gmail.com",
+      "password": "test123",
+      "id": 4
+    },
+    {
+      "name": "bb",
+      "email": "jj@",
+      "password": "gff",
+      "id": 5
+    },
+    {
+      "name": "mario",
+      "email": "mario@gmail",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "fabian",
+      "email": "mario@gmail.com",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "besma",
+      "email": "besmaharzli@gmail.com",
+      "password": "test123",
+      "id": 8
+    },
+    {
+      "name": "besma",
+      "email": "besmaharzli@gmail.com",
+      "password": "test123",
+      "id": 9
+    },
+    {
+      "name": "fabian",
+      "email": "mario@gmail.com",
+      "password": "test123",
+      "id": 10
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "mariofood",
+      "contact": 3111,
+      "id": 2
+    },
+    {
+      "name": "kfc",
+      "contact": "456123",
+      "id": 3
+    }
+  ]
+}
